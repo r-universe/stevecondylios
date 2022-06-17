@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dictionaRy"]
+	path = dictionaRy
+	url = https://github.com/stevecondylios/dictionary
+	shallow = true
+	registered = true
+[submodule "mmr"]
+	path = mmr
+	url = https://github.com/stevecondylios/mmr
+	shallow = true
+	registered = true
+[submodule "netstat"]
+	path = netstat
+	url = https://github.com/stevecondylios/netstat
+	shallow = true
+	registered = true
+[submodule "priceR"]
+	path = priceR
+	url = https://github.com/stevecondylios/pricer
+	shallow = true
+	registered = true
