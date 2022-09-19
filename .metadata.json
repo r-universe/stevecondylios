@@ -1,6 +1,14 @@
 [
   {
+    "package": "dictionaRy",
+    "oncran": true
+  },
+  {
     "package": "iteratoR",
+    "oncran": true
+  },
+  {
+    "package": "mmr",
     "oncran": true
   },
   {
