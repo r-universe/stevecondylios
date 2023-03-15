@@ -13,6 +13,11 @@
 	url = https://github.com/stevecondylios/iterator
 	shallow = true
 	registered = true
+[submodule "priceR"]
+	path = priceR
+	url = https://github.com/stevecondylios/pricer
+	shallow = true
+	registered = true
 [submodule "mmr"]
 	path = mmr
 	url = https://github.com/stevecondylios/mmr
@@ -21,10 +26,5 @@
 [submodule "netstat"]
 	path = netstat
 	url = https://github.com/stevecondylios/netstat
-	shallow = true
-	registered = true
-[submodule "priceR"]
-	path = priceR
-	url = https://github.com/stevecondylios/pricer
 	shallow = true
 	registered = true
