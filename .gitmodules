@@ -8,6 +8,11 @@
 	url = https://github.com/stevecondylios/dictionary
 	shallow = true
 	registered = true
+[submodule "gitGPT"]
+	path = gitGPT
+	url = https://github.com/stevecondylios/gitgpt
+	shallow = true
+	registered = true
 [submodule "iteratoR"]
 	path = iteratoR
 	url = https://github.com/stevecondylios/iterator
