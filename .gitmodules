@@ -5,9 +5,6 @@
 [submodule "dictionaRy"]
 	path = dictionaRy
 	url = https://github.com/stevecondylios/dictionary
-[submodule "gitGPT"]
-	path = gitGPT
-	url = https://github.com/stevecondylios/gitgpt
 [submodule "iteratoR"]
 	path = iteratoR
 	url = https://github.com/stevecondylios/iterator
